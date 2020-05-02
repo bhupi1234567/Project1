@@ -1,2 +1,3 @@
-# Project1
-First android project
+# Adroid-learning
+My first android project has all many basic functionalites
+
